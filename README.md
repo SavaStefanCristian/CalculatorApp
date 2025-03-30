@@ -9,15 +9,15 @@ It features **Standard** and **Programmer** modes with a sleek, modern UI.
 ✅ **MVVM Architecture** – Ensures maintainability and scalability.  
 ✅ **Standard Mode** – Supports basic arithmetic operations.  
 
-![Standard Mode Image](images/standard.png)
+<img src="images/standard.png" alt="Standard Mode Image" width="300"/>
 
 ✅ **Programmer Mode** – Includes number base conversions.  
 
-![Programmer Mode Image](images/programmer.png)
+<img src="images/programmer.png" alt="Programmer Mode Image" width="300"/>
 
 ✅ **Memory Functions** – Store, restore, add, subtract, clear, and manage memory list.  
 
-![Memory List Image](images/memory.png)
+<img src="images/memory.png" alt="Memory List Image" width="300"/>
 
 ✅ **Base Selection** – Work in binary, octal, decimal, or hexadecimal.  
 ✅ **Clipboard Operations** – **Cut, Copy, and Paste** support.  
